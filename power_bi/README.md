@@ -1,6 +1,6 @@
 # Informe en  power bi
 
-## Explicación 
+##  Aquí te mostraré la base de datos relacional que se trabajó desde PgAdmin 4. 
 
 ![alt text](image-2.png)
 
